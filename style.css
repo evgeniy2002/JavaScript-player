@@ -1,0 +1,17 @@
+.content{
+	position: absolute;
+	left:50%;
+	top:0;
+	transform: translate(-50%,0);
+}
+.control{
+	display: flex;
+}
+button{
+	margin: 0 10px;
+}
+video{
+	position: relative;
+	left:50%;
+	transform: translate(-50%,0);
+}
